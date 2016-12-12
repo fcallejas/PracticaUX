@@ -1,0 +1,43 @@
+Usabilidad UX
+
+Requisitos
+- Qué se petende?
+	- Plataforma social para compartir noticias e información
+	- Debe ser simple, clara y correctamente organizada
+- Usuarios finales
+	- Personas de diferentes edades, pero principalmente entre los 18 y los 35 años, que quieren dar su punto de vista e informar sobre los acontecimientos
+	  mundiales y de sus regiones
+- Cómo deben ser los componentes visuales?
+	- Debe tener colores neutros y algunos que generen seguridad y seriedad en los contenidos
+	- Debe ser fácil de usar y con una estrucutra correcta
+- La Jerarquia de Información
+	- Deben aparecer primero los post más relevantes, categorizadas así:
+		1. Número comentarios que tenga el post
+		2. Número de Likes del post
+		3. Categorías con más posts		
+	- No deben aparecer post con fechas de publicación futuras, o privados
+
+Reacer:
+HOME
+- Los Colores no estan acordes con lo que desea transmitir la plataforma
+	- El color base no transmite la seriedad de la plataforma, además es es característico en este tipo de plataformas, el color actual es más usado en tiendas de mascotas, sitios de niños o juguetes.
+- El Logo del sitio es mejor a la derecha
+- las categorías no tiene un buen diseño, no se hacen vistozas
+	Se ven con la misma relevancia que los demás contenidos, deber ser diferentes a los demás componentes y transmitir menos que los post que son el principal insumo del sitio
+- El botón de buscar tiene una mala ubicación
+	La lógica y la costumbre de la mayoría de sitios es tener el buscador en la parte superiór derecha, además el actual parece que buscara solo en las categorías, se presta para confusión del usuario.
+- Los posts parecen ser todos iguales
+	Primero, los post en 2 columnas hacen que el usuario se pierda un poco entre cual mirar primero, además que se quitan espacio entre ambos, lo mejor es presentar de a uno y diferir en los tamaños para que los usuarios noten que es algo diferente y no se aburran, además los botones de Comentarios y Likes no están siempre ubicados en la misma posición y eso hace que los usuarios se puedan perder o confundir.
+	
+-Darle más importancia al autor del usuario y menos a la fecha de publicación, además de simplificar un poco el diseño
+	
+DETALLE ARTÍCULO
+- El componente dode se muestra el autor es diferente al home
+	- Debe ser igual para que el usuario se familiarice con el sitio y entienda que está en el mismo lugar
+- El botón de volver no es intuitivo
+	- Todos los navegadores y dispotivos tienen la opción de volver atrás, sin necesidad que el sitio web tenga la opción.
+	
+Nuevas pantallas
+	- Formularo de Login / Registro
+	- Lista post por categoria
+	- Detalle de usuario
